@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Site URL](https://theekaguru-m.github.io/Testimonials-Grid-Section-Main/)
+- [Live Site URL](https://theekaguru.github.io/Testimonials-Grid-Section-Main/)
 
 ## My process
 
