@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Site URL](https://aon-m.github.io/Testimonials-Grid-Section-Main/)
+- [Live Site URL](https://theekaguru-m.github.io/Testimonials-Grid-Section-Main/)
 
 ## My process
 
@@ -53,5 +53,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@Aon](https://www.frontendmentor.io/profile/Aon-m)
-- CSSBattle - [@Aon](https://cssbattle.dev/player/aon)
+- Frontend Mentor - [@theekaguru](https://www.frontendmentor.io/profile/theekaguru-m)
+- CSSBattle - [@theekaguru](https://cssbattle.dev/player/theekaguru)
