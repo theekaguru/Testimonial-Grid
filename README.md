@@ -53,5 +53,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@theekaguru](https://www.frontendmentor.io/profile/theekaguru-m)
-- CSSBattle - [@theekaguru](https://cssbattle.dev/player/theekaguru)
+- Github- [@theekaguru](https://github.com/theekaguru/Testimonial-Grid)
